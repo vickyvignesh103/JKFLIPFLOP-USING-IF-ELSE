@@ -59,6 +59,7 @@ endmodule
 <img width="715" height="236" alt="Screenshot 2025-10-07 111050" src="https://github.com/user-attachments/assets/b13fa51b-5104-4ce5-b252-d377529c9e0f" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1919" height="1017" alt="Screenshot 2025-10-07 111818" src="https://github.com/user-attachments/assets/fb87cf4f-467a-4280-a285-36ba838f02c2" />
 
 **RESULTS**
 Hence jk flip flop verified using quartus
